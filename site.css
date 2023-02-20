@@ -1,0 +1,32 @@
+body{
+   background-image: url("home_bg7.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   /* z-index:+1; */
+}
+.text{
+    color: beige;
+    font-size: 21px;
+}
+#heading{
+    color: beige;
+    font-size: 45px;
+}
+.row{
+    margin-top: 10px;
+}
+.alert-success {
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+    margin: 15px;
+}
+.ol-lg-4 text-center{
+    padding-top: 15px;
+}
+.text-justify{
+padding: 8px;
+}
+#msg{
+    font-size: 18px;
+}
